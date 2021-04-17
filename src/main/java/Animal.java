@@ -1,3 +1,4 @@
 public class Animal {
-  Long id;
+  int age;
+
 }
